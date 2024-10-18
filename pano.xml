@@ -387,6 +387,7 @@
       <hotspot description="" id="Point03" target="" title="침실3" tilt="-29.87" skinid="ht_node" pan="-223.41" url="{node15}"/>
       <hotspot description="" id="Point04" target="" title="복도2" tilt="-23.2" skinid="ht_node" pan="-358.02" url="{node5}"/>
       <hotspot description="" id="Point05" target="" title="현관" tilt="-26.92" skinid="ht_node" pan="-24.55" url="{node19}"/>
+      <hotspot description="" id="Point06" target="" title="공용욕실" tilt="-39.61" skinid="ht_node" pan="-87.29" url="{node17}"/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
